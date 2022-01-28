@@ -1,7 +1,7 @@
 # Towers-Of-Hanoi
 Program that will solve the Towers of Hanoi puzzle with best possible solution path
 
-Programmer: Alex Balayan
+Programmer: Alex Balayan /n
 Class: CS471 - Artificial Intelligence - Final Project
 Project Files: final.cpp
 
