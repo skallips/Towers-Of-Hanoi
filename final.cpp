@@ -3,9 +3,9 @@
 #include<iostream>
 #include<stdlib.h>  /* to use exit */
 using namespace std;
-//testing commit
 //testing 2nd commit for noticeable change
 //testing commit from my computer locally through git
+//testing removal of a previous line
 
 class state
 {
@@ -21,7 +21,7 @@ public:
     string whereIs(char x) {
         char result;
 
-        //go through items and find position of item to be found
+        //go through items and findggit  position of item to be found
         for (int i = 0; i < 9; i++) {
             if (this->items[i] == x)
                 result = i;
